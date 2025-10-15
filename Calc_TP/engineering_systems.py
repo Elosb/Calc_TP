@@ -70,4 +70,3 @@ if __name__ == "__main__":
     app = EngineeringSystemsWindow(master=root)
     app.mainloop()
 
-    # fhgkgk
